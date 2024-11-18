@@ -136,7 +136,7 @@ Publish the website in the LocalHost.
     <!-- Footer -->
     <footer class="bg-light text-center py-4">
         <div class="container">
-            <p>&copy; 2024 | Designed by V DIVYASHREE</p>
+            <p>&copy; 2024 | Designed by YASEEN F</p>
         </div>
     </footer>
 
